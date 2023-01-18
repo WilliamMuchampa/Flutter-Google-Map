@@ -1,11 +1,6 @@
 // ignore_for_file: prefer_const_constructors, unnecessary_new, duplicate_ignore, avoid_unnecessary_containers
 
 import 'package:flutter/material.dart';
-import 'package:chelstone/pages/dstv.dart';
-import 'package:chelstone/pages/electricity.dart';
-import 'package:chelstone/pages/water.dart';
-import 'package:chelstone/pages/garbage.dart';
-import 'package:chelstone/pages/tax.dart';
 
 void main() {
   runApp(const MaterialApp(
